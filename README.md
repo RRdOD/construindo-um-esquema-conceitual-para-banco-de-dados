@@ -1,4 +1,4 @@
-# construindo-um-esquema-conceitual-para-banco-de-dados
+# Construindo um esquema conceitual para banco de dados
 
 ## Projeto elaborado para mostrar de forma gráfica e visual o funcionamento de um banco de dados para uma Oficina
 
